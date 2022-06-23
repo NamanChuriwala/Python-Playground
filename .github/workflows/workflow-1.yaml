@@ -19,6 +19,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-      - name: Run file
+      - name: Checkout
         uses: actions/checkout@v3
+      - name: Run file
         run: python3 tests/test1.py
