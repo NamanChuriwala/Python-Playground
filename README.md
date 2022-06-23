@@ -1,5 +1,6 @@
 Repository to experiment CI/CD using Github Actions
-Testing fourth action
+This is a test line
 Learn merge conflict resolution
 Again a line for testing
-no can do no errors here, can I?
+Not a test line
+Maybe not even this one
